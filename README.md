@@ -1,16 +1,9 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Harshitha%20A&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Graduate%20%7C%20ML%20%7C%20Explainable%20AI%20%7C%20GenAI%2FLLM&descAlignY=58&descSize=18"/>
-
-<a href="https://linkedin.com/in/harshitha-abbaiah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:harshitha28g@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/HarshithaAbbaiah"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-
-<img src="https://komarev.com/ghpvc/?username=HarshithaAbbaiah&style=flat-square&color=2C5364" alt="profile views"/>
-
-</div>
-
-<br/>
+<h1 align="center">Hi, I'm Harshitha A 👋</h1>
+<h3 align="center">AI & Data Science Graduate | Machine Learning · Explainable AI · GenAI/LLM Systems</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/harshitha-abbaiah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:harshitha28g@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ### 🎯 About Me
 
